@@ -1,4 +1,4 @@
-![Banner de Electroniks](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.shutterstock.com%2Fsearch%2Felectronic-product-banner&psig=AOvVaw0uaKTrokBx2JF3aesMOQ0t&ust=1733268298231000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJj9u9-diooDFQAAAAAdAAAAABAE)
+![Banner de Electroniks](https://www.shutterstock.com/image-vector/super-sale-header-banner-design-260nw-1663164736.jpg)
 
 # Electroniks
 
