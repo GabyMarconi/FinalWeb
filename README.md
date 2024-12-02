@@ -1,4 +1,4 @@
-![Banner de Electroniks]([https://www.shutterstock.com/image-vector/super-sale-header-banner-design-260nw-1663164736.jpg](https://static.vecteezy.com/system/resources/previews/004/617/319/non_2x/electronics-word-concepts-banner-manufacture-maintenance-and-repair-of-household-appliances-presentation-website-isolated-lettering-typography-idea-with-linear-icons-outline-illustration-vector.jpg))
+![Banner de Electroniks](https://static.vecteezy.com/system/resources/previews/004/617/319/non_2x/electronics-word-concepts-banner-manufacture-maintenance-and-repair-of-household-appliances-presentation-website-isolated-lettering-typography-idea-with-linear-icons-outline-illustration-vector.jpg)
 
 # Electroniks
 
