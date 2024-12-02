@@ -1,0 +1,281 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="DB_CARRITOModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="CARRITO">
+    <Key>
+      <PropertyRef Name="IdCarrito" />
+    </Key>
+    <Property Name="IdCarrito" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="IdUsuario" Type="Int32" />
+    <Property Name="IdProducto" Type="Int32" />
+    <NavigationProperty Name="PRODUCTO" Relationship="Self.FK__CARRITO__IdProdu__4AB81AF0" FromRole="CARRITO" ToRole="PRODUCTO" />
+    <NavigationProperty Name="USUARIO" Relationship="Self.FK__CARRITO__IdUsuar__49C3F6B7" FromRole="CARRITO" ToRole="USUARIO" />
+  </EntityType>
+  <EntityType Name="CATEGORIA">
+    <Key>
+      <PropertyRef Name="IdCategoria" />
+    </Key>
+    <Property Name="IdCategoria" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Descripcion" Type="String" MaxLength="100" FixedLength="false" Unicode="false" />
+    <Property Name="Activo" Type="Boolean" />
+    <Property Name="FechaRegistro" Type="DateTime" Precision="3" />
+    <NavigationProperty Name="PRODUCTO" Relationship="Self.FK__PRODUCTO__IdCate__403A8C7D" FromRole="CATEGORIA" ToRole="PRODUCTO" />
+  </EntityType>
+  <EntityType Name="COMPRA">
+    <Key>
+      <PropertyRef Name="IdCompra" />
+    </Key>
+    <Property Name="IdCompra" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="IdUsuario" Type="Int32" />
+    <Property Name="TotalProducto" Type="Int32" />
+    <Property Name="Total" Type="Decimal" Precision="10" Scale="2" />
+    <Property Name="Contacto" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="Telefono" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="Direccion" Type="String" MaxLength="500" FixedLength="false" Unicode="false" />
+    <Property Name="IdDistrito" Type="String" MaxLength="10" FixedLength="false" Unicode="false" />
+    <Property Name="FechaCompra" Type="DateTime" Precision="3" />
+    <NavigationProperty Name="USUARIO" Relationship="Self.FK__COMPRA__IdUsuari__4D94879B" FromRole="COMPRA" ToRole="USUARIO" />
+    <NavigationProperty Name="DETALLE_COMPRA" Relationship="Self.FK__DETALLE_C__IdCom__5535A963" FromRole="COMPRA" ToRole="DETALLE_COMPRA" />
+    <NavigationProperty Name="DETALLE_TARJETA" Relationship="Self.FK__DETALLE_T__IdCom__5165187F" FromRole="COMPRA" ToRole="DETALLE_TARJETA" />
+  </EntityType>
+  <EntityType Name="DETALLE_COMPRA">
+    <Key>
+      <PropertyRef Name="IdDetalleCompra" />
+    </Key>
+    <Property Name="IdDetalleCompra" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="IdCompra" Type="Int32" />
+    <Property Name="IdProducto" Type="Int32" />
+    <Property Name="Cantidad" Type="Int32" />
+    <Property Name="Total" Type="Decimal" Precision="10" Scale="2" />
+    <NavigationProperty Name="COMPRA" Relationship="Self.FK__DETALLE_C__IdCom__5535A963" FromRole="DETALLE_COMPRA" ToRole="COMPRA" />
+    <NavigationProperty Name="PRODUCTO" Relationship="Self.FK__DETALLE_C__IdPro__5629CD9C" FromRole="DETALLE_COMPRA" ToRole="PRODUCTO" />
+  </EntityType>
+  <EntityType Name="DETALLE_TARJETA">
+    <Key>
+      <PropertyRef Name="IdDetalleTarjeta" />
+    </Key>
+    <Property Name="IdDetalleTarjeta" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="IdCompra" Type="Int32" />
+    <Property Name="TipoTarjeta" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="NombreTitular" Type="String" MaxLength="100" FixedLength="false" Unicode="false" />
+    <Property Name="NumeroTarjeta" Type="String" MaxLength="20" FixedLength="false" Unicode="false" />
+    <Property Name="Vigencia" Type="String" MaxLength="7" FixedLength="false" Unicode="false" />
+    <Property Name="CVV" Type="String" MaxLength="4" FixedLength="false" Unicode="false" />
+    <Property Name="FechaRegistro" Type="DateTime" Precision="3" />
+    <NavigationProperty Name="COMPRA" Relationship="Self.FK__DETALLE_T__IdCom__5165187F" FromRole="DETALLE_TARJETA" ToRole="COMPRA" />
+  </EntityType>
+  <EntityType Name="MARCA">
+    <Key>
+      <PropertyRef Name="IdMarca" />
+    </Key>
+    <Property Name="IdMarca" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Descripcion" Type="String" MaxLength="100" FixedLength="false" Unicode="false" />
+    <Property Name="Activo" Type="Boolean" />
+    <Property Name="FechaRegistro" Type="DateTime" Precision="3" />
+    <NavigationProperty Name="PRODUCTO" Relationship="Self.FK__PRODUCTO__IdMarc__3F466844" FromRole="MARCA" ToRole="PRODUCTO" />
+  </EntityType>
+  <EntityType Name="PRODUCTO">
+    <Key>
+      <PropertyRef Name="IdProducto" />
+    </Key>
+    <Property Name="IdProducto" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Nombre" Type="String" MaxLength="500" FixedLength="false" Unicode="false" />
+    <Property Name="Descripcion" Type="String" MaxLength="500" FixedLength="false" Unicode="false" />
+    <Property Name="IdMarca" Type="Int32" />
+    <Property Name="IdCategoria" Type="Int32" />
+    <Property Name="Precio" Type="Decimal" Precision="10" Scale="2" />
+    <Property Name="Stock" Type="Int32" />
+    <Property Name="RutaImagen" Type="String" MaxLength="100" FixedLength="false" Unicode="false" />
+    <Property Name="Activo" Type="Boolean" />
+    <Property Name="FechaRegistro" Type="DateTime" Precision="3" />
+    <NavigationProperty Name="CARRITO" Relationship="Self.FK__CARRITO__IdProdu__4AB81AF0" FromRole="PRODUCTO" ToRole="CARRITO" />
+    <NavigationProperty Name="CATEGORIA" Relationship="Self.FK__PRODUCTO__IdCate__403A8C7D" FromRole="PRODUCTO" ToRole="CATEGORIA" />
+    <NavigationProperty Name="DETALLE_COMPRA" Relationship="Self.FK__DETALLE_C__IdPro__5629CD9C" FromRole="PRODUCTO" ToRole="DETALLE_COMPRA" />
+    <NavigationProperty Name="MARCA" Relationship="Self.FK__PRODUCTO__IdMarc__3F466844" FromRole="PRODUCTO" ToRole="MARCA" />
+  </EntityType>
+  <EntityType Name="USUARIO">
+    <Key>
+      <PropertyRef Name="IdUsuario" />
+    </Key>
+    <Property Name="IdUsuario" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Nombres" Type="String" MaxLength="100" FixedLength="false" Unicode="false" />
+    <Property Name="Apellidos" Type="String" MaxLength="100" FixedLength="false" Unicode="false" />
+    <Property Name="Correo" Type="String" MaxLength="100" FixedLength="false" Unicode="false" />
+    <Property Name="Contrasena" Type="String" MaxLength="100" FixedLength="false" Unicode="false" />
+    <Property Name="EsAdministrador" Type="Boolean" />
+    <Property Name="Activo" Type="Boolean" />
+    <Property Name="FechaRegistro" Type="DateTime" Precision="3" />
+    <NavigationProperty Name="CARRITO" Relationship="Self.FK__CARRITO__IdUsuar__49C3F6B7" FromRole="USUARIO" ToRole="CARRITO" />
+    <NavigationProperty Name="COMPRA" Relationship="Self.FK__COMPRA__IdUsuari__4D94879B" FromRole="USUARIO" ToRole="COMPRA" />
+  </EntityType>
+  <EntityType Name="DEPARTAMENTO">
+    <Key>
+      <PropertyRef Name="IdDepartamento" />
+      <PropertyRef Name="Descripcion" />
+    </Key>
+    <Property Name="IdDepartamento" Type="String" MaxLength="2" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="Descripcion" Type="String" MaxLength="45" FixedLength="false" Unicode="false" Nullable="false" />
+  </EntityType>
+  <EntityType Name="DISTRITO">
+    <Key>
+      <PropertyRef Name="IdDistrito" />
+      <PropertyRef Name="Descripcion" />
+      <PropertyRef Name="IdProvincia" />
+      <PropertyRef Name="IdDepartamento" />
+    </Key>
+    <Property Name="IdDistrito" Type="String" MaxLength="6" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="Descripcion" Type="String" MaxLength="45" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="IdProvincia" Type="String" MaxLength="4" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="IdDepartamento" Type="String" MaxLength="2" FixedLength="false" Unicode="false" Nullable="false" />
+  </EntityType>
+  <EntityType Name="PROVINCIA">
+    <Key>
+      <PropertyRef Name="IdProvincia" />
+      <PropertyRef Name="Descripcion" />
+      <PropertyRef Name="IdDepartamento" />
+    </Key>
+    <Property Name="IdProvincia" Type="String" MaxLength="4" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="Descripcion" Type="String" MaxLength="45" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="IdDepartamento" Type="String" MaxLength="2" FixedLength="false" Unicode="false" Nullable="false" />
+  </EntityType>
+  <Association Name="FK__CARRITO__IdProdu__4AB81AF0">
+    <End Role="PRODUCTO" Type="Self.PRODUCTO" Multiplicity="0..1" />
+    <End Role="CARRITO" Type="Self.CARRITO" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="PRODUCTO">
+        <PropertyRef Name="IdProducto" />
+      </Principal>
+      <Dependent Role="CARRITO">
+        <PropertyRef Name="IdProducto" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__CARRITO__IdUsuar__49C3F6B7">
+    <End Role="USUARIO" Type="Self.USUARIO" Multiplicity="0..1" />
+    <End Role="CARRITO" Type="Self.CARRITO" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="USUARIO">
+        <PropertyRef Name="IdUsuario" />
+      </Principal>
+      <Dependent Role="CARRITO">
+        <PropertyRef Name="IdUsuario" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__PRODUCTO__IdCate__403A8C7D">
+    <End Role="CATEGORIA" Type="Self.CATEGORIA" Multiplicity="0..1" />
+    <End Role="PRODUCTO" Type="Self.PRODUCTO" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="CATEGORIA">
+        <PropertyRef Name="IdCategoria" />
+      </Principal>
+      <Dependent Role="PRODUCTO">
+        <PropertyRef Name="IdCategoria" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__COMPRA__IdUsuari__4D94879B">
+    <End Role="USUARIO" Type="Self.USUARIO" Multiplicity="0..1" />
+    <End Role="COMPRA" Type="Self.COMPRA" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="USUARIO">
+        <PropertyRef Name="IdUsuario" />
+      </Principal>
+      <Dependent Role="COMPRA">
+        <PropertyRef Name="IdUsuario" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__DETALLE_C__IdCom__5535A963">
+    <End Role="COMPRA" Type="Self.COMPRA" Multiplicity="0..1" />
+    <End Role="DETALLE_COMPRA" Type="Self.DETALLE_COMPRA" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="COMPRA">
+        <PropertyRef Name="IdCompra" />
+      </Principal>
+      <Dependent Role="DETALLE_COMPRA">
+        <PropertyRef Name="IdCompra" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__DETALLE_T__IdCom__5165187F">
+    <End Role="COMPRA" Type="Self.COMPRA" Multiplicity="0..1" />
+    <End Role="DETALLE_TARJETA" Type="Self.DETALLE_TARJETA" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="COMPRA">
+        <PropertyRef Name="IdCompra" />
+      </Principal>
+      <Dependent Role="DETALLE_TARJETA">
+        <PropertyRef Name="IdCompra" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__DETALLE_C__IdPro__5629CD9C">
+    <End Role="PRODUCTO" Type="Self.PRODUCTO" Multiplicity="0..1" />
+    <End Role="DETALLE_COMPRA" Type="Self.DETALLE_COMPRA" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="PRODUCTO">
+        <PropertyRef Name="IdProducto" />
+      </Principal>
+      <Dependent Role="DETALLE_COMPRA">
+        <PropertyRef Name="IdProducto" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__PRODUCTO__IdMarc__3F466844">
+    <End Role="MARCA" Type="Self.MARCA" Multiplicity="0..1" />
+    <End Role="PRODUCTO" Type="Self.PRODUCTO" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="MARCA">
+        <PropertyRef Name="IdMarca" />
+      </Principal>
+      <Dependent Role="PRODUCTO">
+        <PropertyRef Name="IdMarca" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="DB_CARRITOEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="CARRITO" EntityType="Self.CARRITO" />
+    <EntitySet Name="CATEGORIA" EntityType="Self.CATEGORIA" />
+    <EntitySet Name="COMPRA" EntityType="Self.COMPRA" />
+    <EntitySet Name="DETALLE_COMPRA" EntityType="Self.DETALLE_COMPRA" />
+    <EntitySet Name="DETALLE_TARJETA" EntityType="Self.DETALLE_TARJETA" />
+    <EntitySet Name="MARCA" EntityType="Self.MARCA" />
+    <EntitySet Name="PRODUCTO" EntityType="Self.PRODUCTO" />
+    <EntitySet Name="USUARIO" EntityType="Self.USUARIO" />
+    <EntitySet Name="DEPARTAMENTO" EntityType="Self.DEPARTAMENTO" />
+    <EntitySet Name="DISTRITO" EntityType="Self.DISTRITO" />
+    <EntitySet Name="PROVINCIA" EntityType="Self.PROVINCIA" />
+    <AssociationSet Name="FK__CARRITO__IdProdu__4AB81AF0" Association="Self.FK__CARRITO__IdProdu__4AB81AF0">
+      <End Role="PRODUCTO" EntitySet="PRODUCTO" />
+      <End Role="CARRITO" EntitySet="CARRITO" />
+    </AssociationSet>
+    <AssociationSet Name="FK__CARRITO__IdUsuar__49C3F6B7" Association="Self.FK__CARRITO__IdUsuar__49C3F6B7">
+      <End Role="USUARIO" EntitySet="USUARIO" />
+      <End Role="CARRITO" EntitySet="CARRITO" />
+    </AssociationSet>
+    <AssociationSet Name="FK__PRODUCTO__IdCate__403A8C7D" Association="Self.FK__PRODUCTO__IdCate__403A8C7D">
+      <End Role="CATEGORIA" EntitySet="CATEGORIA" />
+      <End Role="PRODUCTO" EntitySet="PRODUCTO" />
+    </AssociationSet>
+    <AssociationSet Name="FK__COMPRA__IdUsuari__4D94879B" Association="Self.FK__COMPRA__IdUsuari__4D94879B">
+      <End Role="USUARIO" EntitySet="USUARIO" />
+      <End Role="COMPRA" EntitySet="COMPRA" />
+    </AssociationSet>
+    <AssociationSet Name="FK__DETALLE_C__IdCom__5535A963" Association="Self.FK__DETALLE_C__IdCom__5535A963">
+      <End Role="COMPRA" EntitySet="COMPRA" />
+      <End Role="DETALLE_COMPRA" EntitySet="DETALLE_COMPRA" />
+    </AssociationSet>
+    <AssociationSet Name="FK__DETALLE_T__IdCom__5165187F" Association="Self.FK__DETALLE_T__IdCom__5165187F">
+      <End Role="COMPRA" EntitySet="COMPRA" />
+      <End Role="DETALLE_TARJETA" EntitySet="DETALLE_TARJETA" />
+    </AssociationSet>
+    <AssociationSet Name="FK__DETALLE_C__IdPro__5629CD9C" Association="Self.FK__DETALLE_C__IdPro__5629CD9C">
+      <End Role="PRODUCTO" EntitySet="PRODUCTO" />
+      <End Role="DETALLE_COMPRA" EntitySet="DETALLE_COMPRA" />
+    </AssociationSet>
+    <AssociationSet Name="FK__PRODUCTO__IdMarc__3F466844" Association="Self.FK__PRODUCTO__IdMarc__3F466844">
+      <End Role="MARCA" EntitySet="MARCA" />
+      <End Role="PRODUCTO" EntitySet="PRODUCTO" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

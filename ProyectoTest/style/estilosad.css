@@ -1,0 +1,90 @@
+﻿/* Carrusel */
+.carousel-image {
+    width: 100%;
+    height: 600px; /* Tamaño fijo para mantener proporciones */
+    object-fit: cover; /* Ajusta la imagen sin distorsión */
+    animation: zoom 10s infinite; /* Efecto de zoom */
+}
+
+@keyframes zoom {
+    0%, 100% {
+        transform: scale(1);
+    }
+
+    50% {
+        transform: scale(1.1);
+    }
+}
+
+.carousel-caption {
+    background: rgba(0, 0, 0, 0.7); /* Fondo semitransparente */
+    padding: 15px;
+    border-radius: 10px;
+    animation: fadeInUp 2s ease-in-out;
+}
+
+/* Botones del carrusel */
+.carousel-control-prev-icon,
+.carousel-control-next-icon {
+    filter: invert(1); /* Asegura que los íconos sean visibles en fondos oscuros */
+}
+
+/* Ajustar el contenedor para evitar desplazamientos */
+.carousel-inner {
+    max-height: 600px; /* Asegura que todas las imágenes respeten la altura */
+    overflow: hidden; /* Evita el desbordamiento */
+}
+
+/* Footer */
+
+.footer {
+    background: linear-gradient(45deg, #ff5733, #0d6efd);
+    color: white;
+    padding: 30px 0;
+}
+
+    .footer a {
+        color: var(--primary-color);
+        text-decoration: none;
+        font-weight: bold;
+    }
+
+        .footer a:hover {
+            color: var(--secondary-color);
+        }
+
+    .footer .grupo {
+        margin-top: 10px;
+        font-weight: bold;
+        color: #fff;
+        font-size: 1.2rem;
+    }
+
+/* Botón de flecha para subir */
+.scroll-to-top {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    background: linear-gradient(to right, #f04a23, #4a89f3); /* Degradado circular */
+    color: white;
+    border-radius: 50%;
+    width: 60px; /* Ajusta el tamaño del botón */
+    height: 60px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    transition: all 0.4s ease-in-out;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.4); /* Sombra para destacar */
+    z-index: 1000; /* Asegura que esté encima del contenido */
+}
+
+    .scroll-to-top:hover {
+        transform: scale(1.2); /* Efecto de zoom */
+        box-shadow: 0 8px 15px rgba(255, 87, 51, 0.5); /* Brillo al hacer hover */
+    }
+
+    .scroll-to-top i {
+        font-size: 1.8rem; /* Ajusta el tamaño del ícono */
+        color: white;
+    }

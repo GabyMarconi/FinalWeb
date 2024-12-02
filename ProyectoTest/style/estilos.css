@@ -1,0 +1,43 @@
+﻿/* Nueva clase para el fondo del navbar con degradado */
+.navbar-degradado {
+    background: linear-gradient(to right, #f04a23, #4a89f3); /* Colores de degradado */
+    color: white;
+}
+
+/* Nueva clase para el texto del navbar */
+.navbar-titulo {
+    font-weight: bold;
+    color: white;
+}
+
+/* Nueva clase para los botones */
+.btn-degradado {
+    color: white;
+    border: none;
+    background-color: transparent;
+}
+
+/* Nueva clase para íconos */
+.icono-navbar {
+    color: white;
+}
+
+/* Nueva clase para el dropdown */
+.menu-desplegable {
+    background-color: #f8f9fa; /* Fondo claro */
+    color: #212529;
+}
+
+.menu-desplegable-item {
+    color: #212529;
+}
+
+    .menu-desplegable-item:hover {
+        background-color: #e9ecef;
+    }
+
+/* Contador del carrito personalizado */
+.contador-carrito {
+    background-color: white;
+    color: #f04a23; /* Color para resaltar el número */
+}

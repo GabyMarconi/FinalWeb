@@ -1,0 +1,377 @@
+C:\Users\NewFa\Downloads\026_SistemaCarritoCompras-main\026_SistemaCarritoCompras-main\ProyectoTest\bin\ProyectoTest.dll.config
+C:\Users\NewFa\Downloads\026_SistemaCarritoCompras-main\026_SistemaCarritoCompras-main\ProyectoTest\bin\ProyectoTest.dll
+C:\Users\NewFa\Downloads\026_SistemaCarritoCompras-main\026_SistemaCarritoCompras-main\ProyectoTest\bin\ProyectoTest.pdb
+C:\Users\NewFa\Downloads\026_SistemaCarritoCompras-main\026_SistemaCarritoCompras-main\ProyectoTest\bin\roslyn\csc.exe
+C:\Users\NewFa\Downloads\026_SistemaCarritoCompras-main\026_SistemaCarritoCompras-main\ProyectoTest\bin\roslyn\csc.exe.config
+C:\Users\NewFa\Downloads\026_SistemaCarritoCompras-main\026_SistemaCarritoCompras-main\ProyectoTest\bin\roslyn\csc.rsp
+C:\Users\NewFa\Downloads\026_SistemaCarritoCompras-main\026_SistemaCarritoCompras-main\ProyectoTest\bin\roslyn\csi.exe
+C:\Users\NewFa\Downloads\026_SistemaCarritoCompras-main\026_SistemaCarritoCompras-main\ProyectoTest\bin\roslyn\csi.exe.config
+C:\Users\NewFa\Downloads\026_SistemaCarritoCompras-main\026_SistemaCarritoCompras-main\ProyectoTest\bin\roslyn\csi.rsp
+C:\Users\NewFa\Downloads\026_SistemaCarritoCompras-main\026_SistemaCarritoCompras-main\ProyectoTest\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\NewFa\Downloads\026_SistemaCarritoCompras-main\026_SistemaCarritoCompras-main\ProyectoTest\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\NewFa\Downloads\026_SistemaCarritoCompras-main\026_SistemaCarritoCompras-main\ProyectoTest\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\NewFa\Downloads\026_SistemaCarritoCompras-main\026_SistemaCarritoCompras-main\ProyectoTest\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\NewFa\Downloads\026_SistemaCarritoCompras-main\026_SistemaCarritoCompras-main\ProyectoTest\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\NewFa\Downloads\026_SistemaCarritoCompras-main\026_SistemaCarritoCompras-main\ProyectoTest\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\NewFa\Downloads\026_SistemaCarritoCompras-main\026_SistemaCarritoCompras-main\ProyectoTest\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\NewFa\Downloads\026_SistemaCarritoCompras-main\026_SistemaCarritoCompras-main\ProyectoTest\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\NewFa\Downloads\026_SistemaCarritoCompras-main\026_SistemaCarritoCompras-main\ProyectoTest\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\NewFa\Downloads\026_SistemaCarritoCompras-main\026_SistemaCarritoCompras-main\ProyectoTest\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\NewFa\Downloads\026_SistemaCarritoCompras-main\026_SistemaCarritoCompras-main\ProyectoTest\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\NewFa\Downloads\026_SistemaCarritoCompras-main\026_SistemaCarritoCompras-main\ProyectoTest\bin\roslyn\System.AppContext.dll
+C:\Users\NewFa\Downloads\026_SistemaCarritoCompras-main\026_SistemaCarritoCompras-main\ProyectoTest\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\NewFa\Downloads\026_SistemaCarritoCompras-main\026_SistemaCarritoCompras-main\ProyectoTest\bin\roslyn\System.Console.dll
+C:\Users\NewFa\Downloads\026_SistemaCarritoCompras-main\026_SistemaCarritoCompras-main\ProyectoTest\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\NewFa\Downloads\026_SistemaCarritoCompras-main\026_SistemaCarritoCompras-main\ProyectoTest\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\NewFa\Downloads\026_SistemaCarritoCompras-main\026_SistemaCarritoCompras-main\ProyectoTest\bin\roslyn\System.IO.Compression.dll
+C:\Users\NewFa\Downloads\026_SistemaCarritoCompras-main\026_SistemaCarritoCompras-main\ProyectoTest\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\NewFa\Downloads\026_SistemaCarritoCompras-main\026_SistemaCarritoCompras-main\ProyectoTest\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\NewFa\Downloads\026_SistemaCarritoCompras-main\026_SistemaCarritoCompras-main\ProyectoTest\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\NewFa\Downloads\026_SistemaCarritoCompras-main\026_SistemaCarritoCompras-main\ProyectoTest\bin\roslyn\System.IO.Pipes.dll
+C:\Users\NewFa\Downloads\026_SistemaCarritoCompras-main\026_SistemaCarritoCompras-main\ProyectoTest\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\NewFa\Downloads\026_SistemaCarritoCompras-main\026_SistemaCarritoCompras-main\ProyectoTest\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\NewFa\Downloads\026_SistemaCarritoCompras-main\026_SistemaCarritoCompras-main\ProyectoTest\bin\roslyn\System.Security.Claims.dll
+C:\Users\NewFa\Downloads\026_SistemaCarritoCompras-main\026_SistemaCarritoCompras-main\ProyectoTest\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\NewFa\Downloads\026_SistemaCarritoCompras-main\026_SistemaCarritoCompras-main\ProyectoTest\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\NewFa\Downloads\026_SistemaCarritoCompras-main\026_SistemaCarritoCompras-main\ProyectoTest\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\NewFa\Downloads\026_SistemaCarritoCompras-main\026_SistemaCarritoCompras-main\ProyectoTest\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\NewFa\Downloads\026_SistemaCarritoCompras-main\026_SistemaCarritoCompras-main\ProyectoTest\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\NewFa\Downloads\026_SistemaCarritoCompras-main\026_SistemaCarritoCompras-main\ProyectoTest\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\NewFa\Downloads\026_SistemaCarritoCompras-main\026_SistemaCarritoCompras-main\ProyectoTest\bin\roslyn\System.ValueTuple.dll
+C:\Users\NewFa\Downloads\026_SistemaCarritoCompras-main\026_SistemaCarritoCompras-main\ProyectoTest\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\NewFa\Downloads\026_SistemaCarritoCompras-main\026_SistemaCarritoCompras-main\ProyectoTest\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\NewFa\Downloads\026_SistemaCarritoCompras-main\026_SistemaCarritoCompras-main\ProyectoTest\bin\roslyn\System.Xml.XPath.dll
+C:\Users\NewFa\Downloads\026_SistemaCarritoCompras-main\026_SistemaCarritoCompras-main\ProyectoTest\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\NewFa\Downloads\026_SistemaCarritoCompras-main\026_SistemaCarritoCompras-main\ProyectoTest\bin\roslyn\vbc.exe
+C:\Users\NewFa\Downloads\026_SistemaCarritoCompras-main\026_SistemaCarritoCompras-main\ProyectoTest\bin\roslyn\vbc.exe.config
+C:\Users\NewFa\Downloads\026_SistemaCarritoCompras-main\026_SistemaCarritoCompras-main\ProyectoTest\bin\roslyn\vbc.rsp
+C:\Users\NewFa\Downloads\026_SistemaCarritoCompras-main\026_SistemaCarritoCompras-main\ProyectoTest\bin\roslyn\VBCSCompiler.exe
+C:\Users\NewFa\Downloads\026_SistemaCarritoCompras-main\026_SistemaCarritoCompras-main\ProyectoTest\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\NewFa\Downloads\026_SistemaCarritoCompras-main\026_SistemaCarritoCompras-main\ProyectoTest\bin\Antlr3.Runtime.dll
+C:\Users\NewFa\Downloads\026_SistemaCarritoCompras-main\026_SistemaCarritoCompras-main\ProyectoTest\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\NewFa\Downloads\026_SistemaCarritoCompras-main\026_SistemaCarritoCompras-main\ProyectoTest\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\NewFa\Downloads\026_SistemaCarritoCompras-main\026_SistemaCarritoCompras-main\ProyectoTest\bin\Newtonsoft.Json.dll
+C:\Users\NewFa\Downloads\026_SistemaCarritoCompras-main\026_SistemaCarritoCompras-main\ProyectoTest\bin\System.Web.Helpers.dll
+C:\Users\NewFa\Downloads\026_SistemaCarritoCompras-main\026_SistemaCarritoCompras-main\ProyectoTest\bin\System.Web.Mvc.dll
+C:\Users\NewFa\Downloads\026_SistemaCarritoCompras-main\026_SistemaCarritoCompras-main\ProyectoTest\bin\System.Web.Optimization.dll
+C:\Users\NewFa\Downloads\026_SistemaCarritoCompras-main\026_SistemaCarritoCompras-main\ProyectoTest\bin\System.Web.Razor.dll
+C:\Users\NewFa\Downloads\026_SistemaCarritoCompras-main\026_SistemaCarritoCompras-main\ProyectoTest\bin\System.Web.WebPages.Deployment.dll
+C:\Users\NewFa\Downloads\026_SistemaCarritoCompras-main\026_SistemaCarritoCompras-main\ProyectoTest\bin\System.Web.WebPages.dll
+C:\Users\NewFa\Downloads\026_SistemaCarritoCompras-main\026_SistemaCarritoCompras-main\ProyectoTest\bin\System.Web.WebPages.Razor.dll
+C:\Users\NewFa\Downloads\026_SistemaCarritoCompras-main\026_SistemaCarritoCompras-main\ProyectoTest\bin\WebGrease.dll
+C:\Users\NewFa\Downloads\026_SistemaCarritoCompras-main\026_SistemaCarritoCompras-main\ProyectoTest\bin\System.Web.Helpers.xml
+C:\Users\NewFa\Downloads\026_SistemaCarritoCompras-main\026_SistemaCarritoCompras-main\ProyectoTest\bin\System.Web.Mvc.xml
+C:\Users\NewFa\Downloads\026_SistemaCarritoCompras-main\026_SistemaCarritoCompras-main\ProyectoTest\bin\System.Web.Optimization.xml
+C:\Users\NewFa\Downloads\026_SistemaCarritoCompras-main\026_SistemaCarritoCompras-main\ProyectoTest\bin\System.Web.Razor.xml
+C:\Users\NewFa\Downloads\026_SistemaCarritoCompras-main\026_SistemaCarritoCompras-main\ProyectoTest\bin\System.Web.WebPages.xml
+C:\Users\NewFa\Downloads\026_SistemaCarritoCompras-main\026_SistemaCarritoCompras-main\ProyectoTest\bin\System.Web.WebPages.Deployment.xml
+C:\Users\NewFa\Downloads\026_SistemaCarritoCompras-main\026_SistemaCarritoCompras-main\ProyectoTest\bin\System.Web.WebPages.Razor.xml
+C:\Users\NewFa\Downloads\026_SistemaCarritoCompras-main\026_SistemaCarritoCompras-main\ProyectoTest\bin\Newtonsoft.Json.xml
+C:\Users\NewFa\Downloads\026_SistemaCarritoCompras-main\026_SistemaCarritoCompras-main\ProyectoTest\bin\Antlr3.Runtime.pdb
+C:\Users\NewFa\Downloads\026_SistemaCarritoCompras-main\026_SistemaCarritoCompras-main\ProyectoTest\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\NewFa\Downloads\026_SistemaCarritoCompras-main\026_SistemaCarritoCompras-main\ProyectoTest\bin\es\System.Web.Helpers.resources.dll
+C:\Users\NewFa\Downloads\026_SistemaCarritoCompras-main\026_SistemaCarritoCompras-main\ProyectoTest\bin\es\System.Web.Mvc.resources.dll
+C:\Users\NewFa\Downloads\026_SistemaCarritoCompras-main\026_SistemaCarritoCompras-main\ProyectoTest\bin\es\System.Web.Optimization.resources.dll
+C:\Users\NewFa\Downloads\026_SistemaCarritoCompras-main\026_SistemaCarritoCompras-main\ProyectoTest\bin\es\System.Web.Razor.resources.dll
+C:\Users\NewFa\Downloads\026_SistemaCarritoCompras-main\026_SistemaCarritoCompras-main\ProyectoTest\bin\es\System.Web.WebPages.resources.dll
+C:\Users\NewFa\Downloads\026_SistemaCarritoCompras-main\026_SistemaCarritoCompras-main\ProyectoTest\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\NewFa\Downloads\026_SistemaCarritoCompras-main\026_SistemaCarritoCompras-main\ProyectoTest\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\NewFa\Downloads\026_SistemaCarritoCompras-main\026_SistemaCarritoCompras-main\ProyectoTest\obj\Debug\TrabajoConstruccion.csproj.AssemblyReference.cache
+C:\Users\NewFa\Downloads\026_SistemaCarritoCompras-main\026_SistemaCarritoCompras-main\ProyectoTest\obj\Debug\TrabajoConstruccion.csproj.CoreCompileInputs.cache
+C:\Users\NewFa\Downloads\026_SistemaCarritoCompras-main\026_SistemaCarritoCompras-main\ProyectoTest\obj\Debug\TrabajoC.AE72C247.Up2Date
+C:\Users\NewFa\Downloads\026_SistemaCarritoCompras-main\026_SistemaCarritoCompras-main\ProyectoTest\obj\Debug\ProyectoTest.dll
+C:\Users\NewFa\Downloads\026_SistemaCarritoCompras-main\026_SistemaCarritoCompras-main\ProyectoTest\obj\Debug\ProyectoTest.pdb
+C:\Users\NewFa\Downloads\026_SistemaCarritoCompras-main\Construccion\ProyectoTest\bin\ProyectoTest.dll.config
+C:\Users\NewFa\Downloads\026_SistemaCarritoCompras-main\Construccion\ProyectoTest\bin\ProyectoTest.dll
+C:\Users\NewFa\Downloads\026_SistemaCarritoCompras-main\Construccion\ProyectoTest\bin\ProyectoTest.pdb
+C:\Users\NewFa\Downloads\026_SistemaCarritoCompras-main\Construccion\ProyectoTest\bin\roslyn\csc.exe
+C:\Users\NewFa\Downloads\026_SistemaCarritoCompras-main\Construccion\ProyectoTest\bin\roslyn\csc.exe.config
+C:\Users\NewFa\Downloads\026_SistemaCarritoCompras-main\Construccion\ProyectoTest\bin\roslyn\csc.rsp
+C:\Users\NewFa\Downloads\026_SistemaCarritoCompras-main\Construccion\ProyectoTest\bin\roslyn\csi.exe
+C:\Users\NewFa\Downloads\026_SistemaCarritoCompras-main\Construccion\ProyectoTest\bin\roslyn\csi.exe.config
+C:\Users\NewFa\Downloads\026_SistemaCarritoCompras-main\Construccion\ProyectoTest\bin\roslyn\csi.rsp
+C:\Users\NewFa\Downloads\026_SistemaCarritoCompras-main\Construccion\ProyectoTest\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\NewFa\Downloads\026_SistemaCarritoCompras-main\Construccion\ProyectoTest\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\NewFa\Downloads\026_SistemaCarritoCompras-main\Construccion\ProyectoTest\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\NewFa\Downloads\026_SistemaCarritoCompras-main\Construccion\ProyectoTest\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\NewFa\Downloads\026_SistemaCarritoCompras-main\Construccion\ProyectoTest\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\NewFa\Downloads\026_SistemaCarritoCompras-main\Construccion\ProyectoTest\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\NewFa\Downloads\026_SistemaCarritoCompras-main\Construccion\ProyectoTest\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\NewFa\Downloads\026_SistemaCarritoCompras-main\Construccion\ProyectoTest\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\NewFa\Downloads\026_SistemaCarritoCompras-main\Construccion\ProyectoTest\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\NewFa\Downloads\026_SistemaCarritoCompras-main\Construccion\ProyectoTest\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\NewFa\Downloads\026_SistemaCarritoCompras-main\Construccion\ProyectoTest\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\NewFa\Downloads\026_SistemaCarritoCompras-main\Construccion\ProyectoTest\bin\roslyn\System.AppContext.dll
+C:\Users\NewFa\Downloads\026_SistemaCarritoCompras-main\Construccion\ProyectoTest\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\NewFa\Downloads\026_SistemaCarritoCompras-main\Construccion\ProyectoTest\bin\roslyn\System.Console.dll
+C:\Users\NewFa\Downloads\026_SistemaCarritoCompras-main\Construccion\ProyectoTest\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\NewFa\Downloads\026_SistemaCarritoCompras-main\Construccion\ProyectoTest\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\NewFa\Downloads\026_SistemaCarritoCompras-main\Construccion\ProyectoTest\bin\roslyn\System.IO.Compression.dll
+C:\Users\NewFa\Downloads\026_SistemaCarritoCompras-main\Construccion\ProyectoTest\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\NewFa\Downloads\026_SistemaCarritoCompras-main\Construccion\ProyectoTest\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\NewFa\Downloads\026_SistemaCarritoCompras-main\Construccion\ProyectoTest\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\NewFa\Downloads\026_SistemaCarritoCompras-main\Construccion\ProyectoTest\bin\roslyn\System.IO.Pipes.dll
+C:\Users\NewFa\Downloads\026_SistemaCarritoCompras-main\Construccion\ProyectoTest\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\NewFa\Downloads\026_SistemaCarritoCompras-main\Construccion\ProyectoTest\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\NewFa\Downloads\026_SistemaCarritoCompras-main\Construccion\ProyectoTest\bin\roslyn\System.Security.Claims.dll
+C:\Users\NewFa\Downloads\026_SistemaCarritoCompras-main\Construccion\ProyectoTest\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\NewFa\Downloads\026_SistemaCarritoCompras-main\Construccion\ProyectoTest\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\NewFa\Downloads\026_SistemaCarritoCompras-main\Construccion\ProyectoTest\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\NewFa\Downloads\026_SistemaCarritoCompras-main\Construccion\ProyectoTest\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\NewFa\Downloads\026_SistemaCarritoCompras-main\Construccion\ProyectoTest\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\NewFa\Downloads\026_SistemaCarritoCompras-main\Construccion\ProyectoTest\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\NewFa\Downloads\026_SistemaCarritoCompras-main\Construccion\ProyectoTest\bin\roslyn\System.ValueTuple.dll
+C:\Users\NewFa\Downloads\026_SistemaCarritoCompras-main\Construccion\ProyectoTest\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\NewFa\Downloads\026_SistemaCarritoCompras-main\Construccion\ProyectoTest\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\NewFa\Downloads\026_SistemaCarritoCompras-main\Construccion\ProyectoTest\bin\roslyn\System.Xml.XPath.dll
+C:\Users\NewFa\Downloads\026_SistemaCarritoCompras-main\Construccion\ProyectoTest\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\NewFa\Downloads\026_SistemaCarritoCompras-main\Construccion\ProyectoTest\bin\roslyn\vbc.exe
+C:\Users\NewFa\Downloads\026_SistemaCarritoCompras-main\Construccion\ProyectoTest\bin\roslyn\vbc.exe.config
+C:\Users\NewFa\Downloads\026_SistemaCarritoCompras-main\Construccion\ProyectoTest\bin\roslyn\vbc.rsp
+C:\Users\NewFa\Downloads\026_SistemaCarritoCompras-main\Construccion\ProyectoTest\bin\roslyn\VBCSCompiler.exe
+C:\Users\NewFa\Downloads\026_SistemaCarritoCompras-main\Construccion\ProyectoTest\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\NewFa\Downloads\026_SistemaCarritoCompras-main\Construccion\ProyectoTest\bin\Antlr3.Runtime.dll
+C:\Users\NewFa\Downloads\026_SistemaCarritoCompras-main\Construccion\ProyectoTest\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\NewFa\Downloads\026_SistemaCarritoCompras-main\Construccion\ProyectoTest\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\NewFa\Downloads\026_SistemaCarritoCompras-main\Construccion\ProyectoTest\bin\Newtonsoft.Json.dll
+C:\Users\NewFa\Downloads\026_SistemaCarritoCompras-main\Construccion\ProyectoTest\bin\System.Web.Helpers.dll
+C:\Users\NewFa\Downloads\026_SistemaCarritoCompras-main\Construccion\ProyectoTest\bin\System.Web.Mvc.dll
+C:\Users\NewFa\Downloads\026_SistemaCarritoCompras-main\Construccion\ProyectoTest\bin\System.Web.Optimization.dll
+C:\Users\NewFa\Downloads\026_SistemaCarritoCompras-main\Construccion\ProyectoTest\bin\System.Web.Razor.dll
+C:\Users\NewFa\Downloads\026_SistemaCarritoCompras-main\Construccion\ProyectoTest\bin\System.Web.WebPages.Deployment.dll
+C:\Users\NewFa\Downloads\026_SistemaCarritoCompras-main\Construccion\ProyectoTest\bin\System.Web.WebPages.dll
+C:\Users\NewFa\Downloads\026_SistemaCarritoCompras-main\Construccion\ProyectoTest\bin\System.Web.WebPages.Razor.dll
+C:\Users\NewFa\Downloads\026_SistemaCarritoCompras-main\Construccion\ProyectoTest\bin\WebGrease.dll
+C:\Users\NewFa\Downloads\026_SistemaCarritoCompras-main\Construccion\ProyectoTest\bin\System.Web.Helpers.xml
+C:\Users\NewFa\Downloads\026_SistemaCarritoCompras-main\Construccion\ProyectoTest\bin\System.Web.Mvc.xml
+C:\Users\NewFa\Downloads\026_SistemaCarritoCompras-main\Construccion\ProyectoTest\bin\System.Web.Optimization.xml
+C:\Users\NewFa\Downloads\026_SistemaCarritoCompras-main\Construccion\ProyectoTest\bin\System.Web.Razor.xml
+C:\Users\NewFa\Downloads\026_SistemaCarritoCompras-main\Construccion\ProyectoTest\bin\System.Web.WebPages.xml
+C:\Users\NewFa\Downloads\026_SistemaCarritoCompras-main\Construccion\ProyectoTest\bin\System.Web.WebPages.Deployment.xml
+C:\Users\NewFa\Downloads\026_SistemaCarritoCompras-main\Construccion\ProyectoTest\bin\System.Web.WebPages.Razor.xml
+C:\Users\NewFa\Downloads\026_SistemaCarritoCompras-main\Construccion\ProyectoTest\bin\Newtonsoft.Json.xml
+C:\Users\NewFa\Downloads\026_SistemaCarritoCompras-main\Construccion\ProyectoTest\bin\Antlr3.Runtime.pdb
+C:\Users\NewFa\Downloads\026_SistemaCarritoCompras-main\Construccion\ProyectoTest\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\NewFa\Downloads\026_SistemaCarritoCompras-main\Construccion\ProyectoTest\bin\es\System.Web.Helpers.resources.dll
+C:\Users\NewFa\Downloads\026_SistemaCarritoCompras-main\Construccion\ProyectoTest\bin\es\System.Web.Mvc.resources.dll
+C:\Users\NewFa\Downloads\026_SistemaCarritoCompras-main\Construccion\ProyectoTest\bin\es\System.Web.Optimization.resources.dll
+C:\Users\NewFa\Downloads\026_SistemaCarritoCompras-main\Construccion\ProyectoTest\bin\es\System.Web.Razor.resources.dll
+C:\Users\NewFa\Downloads\026_SistemaCarritoCompras-main\Construccion\ProyectoTest\bin\es\System.Web.WebPages.resources.dll
+C:\Users\NewFa\Downloads\026_SistemaCarritoCompras-main\Construccion\ProyectoTest\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\NewFa\Downloads\026_SistemaCarritoCompras-main\Construccion\ProyectoTest\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\NewFa\Downloads\026_SistemaCarritoCompras-main\Construccion\ProyectoTest\obj\Debug\TrabajoConstruccion.csproj.AssemblyReference.cache
+C:\Users\NewFa\Downloads\026_SistemaCarritoCompras-main\Construccion\ProyectoTest\obj\Debug\TrabajoConstruccion.csproj.CoreCompileInputs.cache
+C:\Users\NewFa\Downloads\026_SistemaCarritoCompras-main\Construccion\ProyectoTest\obj\Debug\TrabajoC.AE72C247.Up2Date
+C:\Users\NewFa\Downloads\026_SistemaCarritoCompras-main\Construccion\ProyectoTest\obj\Debug\ProyectoTest.dll
+C:\Users\NewFa\Downloads\026_SistemaCarritoCompras-main\Construccion\ProyectoTest\obj\Debug\ProyectoTest.pdb
+C:\Users\EstudianteUC\Downloads\ProyectoEcommerce-main\ProyectoEcommerce-main\ProyectoTest\bin\ProyectoTest.dll.config
+C:\Users\EstudianteUC\Downloads\ProyectoEcommerce-main\ProyectoEcommerce-main\ProyectoTest\bin\ProyectoTest.dll
+C:\Users\EstudianteUC\Downloads\ProyectoEcommerce-main\ProyectoEcommerce-main\ProyectoTest\bin\ProyectoTest.pdb
+C:\Users\EstudianteUC\Downloads\ProyectoEcommerce-main\ProyectoEcommerce-main\ProyectoTest\bin\roslyn\csc.exe
+C:\Users\EstudianteUC\Downloads\ProyectoEcommerce-main\ProyectoEcommerce-main\ProyectoTest\bin\roslyn\csc.exe.config
+C:\Users\EstudianteUC\Downloads\ProyectoEcommerce-main\ProyectoEcommerce-main\ProyectoTest\bin\roslyn\csc.rsp
+C:\Users\EstudianteUC\Downloads\ProyectoEcommerce-main\ProyectoEcommerce-main\ProyectoTest\bin\roslyn\csi.exe
+C:\Users\EstudianteUC\Downloads\ProyectoEcommerce-main\ProyectoEcommerce-main\ProyectoTest\bin\roslyn\csi.exe.config
+C:\Users\EstudianteUC\Downloads\ProyectoEcommerce-main\ProyectoEcommerce-main\ProyectoTest\bin\roslyn\csi.rsp
+C:\Users\EstudianteUC\Downloads\ProyectoEcommerce-main\ProyectoEcommerce-main\ProyectoTest\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\EstudianteUC\Downloads\ProyectoEcommerce-main\ProyectoEcommerce-main\ProyectoTest\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\EstudianteUC\Downloads\ProyectoEcommerce-main\ProyectoEcommerce-main\ProyectoTest\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\EstudianteUC\Downloads\ProyectoEcommerce-main\ProyectoEcommerce-main\ProyectoTest\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\EstudianteUC\Downloads\ProyectoEcommerce-main\ProyectoEcommerce-main\ProyectoTest\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\EstudianteUC\Downloads\ProyectoEcommerce-main\ProyectoEcommerce-main\ProyectoTest\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\EstudianteUC\Downloads\ProyectoEcommerce-main\ProyectoEcommerce-main\ProyectoTest\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\EstudianteUC\Downloads\ProyectoEcommerce-main\ProyectoEcommerce-main\ProyectoTest\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\EstudianteUC\Downloads\ProyectoEcommerce-main\ProyectoEcommerce-main\ProyectoTest\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\EstudianteUC\Downloads\ProyectoEcommerce-main\ProyectoEcommerce-main\ProyectoTest\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\EstudianteUC\Downloads\ProyectoEcommerce-main\ProyectoEcommerce-main\ProyectoTest\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\EstudianteUC\Downloads\ProyectoEcommerce-main\ProyectoEcommerce-main\ProyectoTest\bin\roslyn\System.AppContext.dll
+C:\Users\EstudianteUC\Downloads\ProyectoEcommerce-main\ProyectoEcommerce-main\ProyectoTest\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\EstudianteUC\Downloads\ProyectoEcommerce-main\ProyectoEcommerce-main\ProyectoTest\bin\roslyn\System.Console.dll
+C:\Users\EstudianteUC\Downloads\ProyectoEcommerce-main\ProyectoEcommerce-main\ProyectoTest\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\EstudianteUC\Downloads\ProyectoEcommerce-main\ProyectoEcommerce-main\ProyectoTest\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\EstudianteUC\Downloads\ProyectoEcommerce-main\ProyectoEcommerce-main\ProyectoTest\bin\roslyn\System.IO.Compression.dll
+C:\Users\EstudianteUC\Downloads\ProyectoEcommerce-main\ProyectoEcommerce-main\ProyectoTest\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\EstudianteUC\Downloads\ProyectoEcommerce-main\ProyectoEcommerce-main\ProyectoTest\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\EstudianteUC\Downloads\ProyectoEcommerce-main\ProyectoEcommerce-main\ProyectoTest\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\EstudianteUC\Downloads\ProyectoEcommerce-main\ProyectoEcommerce-main\ProyectoTest\bin\roslyn\System.IO.Pipes.dll
+C:\Users\EstudianteUC\Downloads\ProyectoEcommerce-main\ProyectoEcommerce-main\ProyectoTest\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\EstudianteUC\Downloads\ProyectoEcommerce-main\ProyectoEcommerce-main\ProyectoTest\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\EstudianteUC\Downloads\ProyectoEcommerce-main\ProyectoEcommerce-main\ProyectoTest\bin\roslyn\System.Security.Claims.dll
+C:\Users\EstudianteUC\Downloads\ProyectoEcommerce-main\ProyectoEcommerce-main\ProyectoTest\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\EstudianteUC\Downloads\ProyectoEcommerce-main\ProyectoEcommerce-main\ProyectoTest\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\EstudianteUC\Downloads\ProyectoEcommerce-main\ProyectoEcommerce-main\ProyectoTest\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\EstudianteUC\Downloads\ProyectoEcommerce-main\ProyectoEcommerce-main\ProyectoTest\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\EstudianteUC\Downloads\ProyectoEcommerce-main\ProyectoEcommerce-main\ProyectoTest\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\EstudianteUC\Downloads\ProyectoEcommerce-main\ProyectoEcommerce-main\ProyectoTest\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\EstudianteUC\Downloads\ProyectoEcommerce-main\ProyectoEcommerce-main\ProyectoTest\bin\roslyn\System.ValueTuple.dll
+C:\Users\EstudianteUC\Downloads\ProyectoEcommerce-main\ProyectoEcommerce-main\ProyectoTest\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\EstudianteUC\Downloads\ProyectoEcommerce-main\ProyectoEcommerce-main\ProyectoTest\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\EstudianteUC\Downloads\ProyectoEcommerce-main\ProyectoEcommerce-main\ProyectoTest\bin\roslyn\System.Xml.XPath.dll
+C:\Users\EstudianteUC\Downloads\ProyectoEcommerce-main\ProyectoEcommerce-main\ProyectoTest\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\EstudianteUC\Downloads\ProyectoEcommerce-main\ProyectoEcommerce-main\ProyectoTest\bin\roslyn\vbc.exe
+C:\Users\EstudianteUC\Downloads\ProyectoEcommerce-main\ProyectoEcommerce-main\ProyectoTest\bin\roslyn\vbc.exe.config
+C:\Users\EstudianteUC\Downloads\ProyectoEcommerce-main\ProyectoEcommerce-main\ProyectoTest\bin\roslyn\vbc.rsp
+C:\Users\EstudianteUC\Downloads\ProyectoEcommerce-main\ProyectoEcommerce-main\ProyectoTest\bin\roslyn\VBCSCompiler.exe
+C:\Users\EstudianteUC\Downloads\ProyectoEcommerce-main\ProyectoEcommerce-main\ProyectoTest\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\EstudianteUC\Downloads\ProyectoEcommerce-main\ProyectoEcommerce-main\ProyectoTest\bin\Antlr3.Runtime.dll
+C:\Users\EstudianteUC\Downloads\ProyectoEcommerce-main\ProyectoEcommerce-main\ProyectoTest\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\EstudianteUC\Downloads\ProyectoEcommerce-main\ProyectoEcommerce-main\ProyectoTest\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\EstudianteUC\Downloads\ProyectoEcommerce-main\ProyectoEcommerce-main\ProyectoTest\bin\Newtonsoft.Json.dll
+C:\Users\EstudianteUC\Downloads\ProyectoEcommerce-main\ProyectoEcommerce-main\ProyectoTest\bin\System.Web.Helpers.dll
+C:\Users\EstudianteUC\Downloads\ProyectoEcommerce-main\ProyectoEcommerce-main\ProyectoTest\bin\System.Web.Mvc.dll
+C:\Users\EstudianteUC\Downloads\ProyectoEcommerce-main\ProyectoEcommerce-main\ProyectoTest\bin\System.Web.Optimization.dll
+C:\Users\EstudianteUC\Downloads\ProyectoEcommerce-main\ProyectoEcommerce-main\ProyectoTest\bin\System.Web.Razor.dll
+C:\Users\EstudianteUC\Downloads\ProyectoEcommerce-main\ProyectoEcommerce-main\ProyectoTest\bin\System.Web.WebPages.Deployment.dll
+C:\Users\EstudianteUC\Downloads\ProyectoEcommerce-main\ProyectoEcommerce-main\ProyectoTest\bin\System.Web.WebPages.dll
+C:\Users\EstudianteUC\Downloads\ProyectoEcommerce-main\ProyectoEcommerce-main\ProyectoTest\bin\System.Web.WebPages.Razor.dll
+C:\Users\EstudianteUC\Downloads\ProyectoEcommerce-main\ProyectoEcommerce-main\ProyectoTest\bin\WebGrease.dll
+C:\Users\EstudianteUC\Downloads\ProyectoEcommerce-main\ProyectoEcommerce-main\ProyectoTest\bin\System.Web.Helpers.xml
+C:\Users\EstudianteUC\Downloads\ProyectoEcommerce-main\ProyectoEcommerce-main\ProyectoTest\bin\System.Web.Mvc.xml
+C:\Users\EstudianteUC\Downloads\ProyectoEcommerce-main\ProyectoEcommerce-main\ProyectoTest\bin\System.Web.Optimization.xml
+C:\Users\EstudianteUC\Downloads\ProyectoEcommerce-main\ProyectoEcommerce-main\ProyectoTest\bin\System.Web.Razor.xml
+C:\Users\EstudianteUC\Downloads\ProyectoEcommerce-main\ProyectoEcommerce-main\ProyectoTest\bin\System.Web.WebPages.xml
+C:\Users\EstudianteUC\Downloads\ProyectoEcommerce-main\ProyectoEcommerce-main\ProyectoTest\bin\System.Web.WebPages.Deployment.xml
+C:\Users\EstudianteUC\Downloads\ProyectoEcommerce-main\ProyectoEcommerce-main\ProyectoTest\bin\System.Web.WebPages.Razor.xml
+C:\Users\EstudianteUC\Downloads\ProyectoEcommerce-main\ProyectoEcommerce-main\ProyectoTest\bin\Newtonsoft.Json.xml
+C:\Users\EstudianteUC\Downloads\ProyectoEcommerce-main\ProyectoEcommerce-main\ProyectoTest\bin\Antlr3.Runtime.pdb
+C:\Users\EstudianteUC\Downloads\ProyectoEcommerce-main\ProyectoEcommerce-main\ProyectoTest\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\EstudianteUC\Downloads\ProyectoEcommerce-main\ProyectoEcommerce-main\ProyectoTest\bin\es\System.Web.Helpers.resources.dll
+C:\Users\EstudianteUC\Downloads\ProyectoEcommerce-main\ProyectoEcommerce-main\ProyectoTest\bin\es\System.Web.Mvc.resources.dll
+C:\Users\EstudianteUC\Downloads\ProyectoEcommerce-main\ProyectoEcommerce-main\ProyectoTest\bin\es\System.Web.Optimization.resources.dll
+C:\Users\EstudianteUC\Downloads\ProyectoEcommerce-main\ProyectoEcommerce-main\ProyectoTest\bin\es\System.Web.Razor.resources.dll
+C:\Users\EstudianteUC\Downloads\ProyectoEcommerce-main\ProyectoEcommerce-main\ProyectoTest\bin\es\System.Web.WebPages.resources.dll
+C:\Users\EstudianteUC\Downloads\ProyectoEcommerce-main\ProyectoEcommerce-main\ProyectoTest\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\EstudianteUC\Downloads\ProyectoEcommerce-main\ProyectoEcommerce-main\ProyectoTest\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\EstudianteUC\Downloads\ProyectoEcommerce-main\ProyectoEcommerce-main\ProyectoTest\obj\Debug\TrabajoConstruccion.csproj.AssemblyReference.cache
+C:\Users\EstudianteUC\Downloads\ProyectoEcommerce-main\ProyectoEcommerce-main\ProyectoTest\obj\Debug\TrabajoConstruccion.csproj.CoreCompileInputs.cache
+C:\Users\EstudianteUC\Downloads\ProyectoEcommerce-main\ProyectoEcommerce-main\ProyectoTest\obj\Debug\TrabajoConstruccion.csproj.CopyComplete
+C:\Users\EstudianteUC\Downloads\ProyectoEcommerce-main\ProyectoEcommerce-main\ProyectoTest\obj\Debug\ProyectoTest.dll
+C:\Users\EstudianteUC\Downloads\ProyectoEcommerce-main\ProyectoEcommerce-main\ProyectoTest\obj\Debug\ProyectoTest.pdb
+D:\Downloads\PaginaWebEcommerce-main\PaginaWebEcommerce-main\ProyectoTest\bin\ProyectoTest.dll.config
+D:\Downloads\PaginaWebEcommerce-main\PaginaWebEcommerce-main\ProyectoTest\bin\ProyectoTest.dll
+D:\Downloads\PaginaWebEcommerce-main\PaginaWebEcommerce-main\ProyectoTest\bin\ProyectoTest.pdb
+D:\Downloads\PaginaWebEcommerce-main\PaginaWebEcommerce-main\ProyectoTest\bin\Antlr3.Runtime.dll
+D:\Downloads\PaginaWebEcommerce-main\PaginaWebEcommerce-main\ProyectoTest\bin\EntityFramework.dll
+D:\Downloads\PaginaWebEcommerce-main\PaginaWebEcommerce-main\ProyectoTest\bin\EntityFramework.SqlServer.dll
+D:\Downloads\PaginaWebEcommerce-main\PaginaWebEcommerce-main\ProyectoTest\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Downloads\PaginaWebEcommerce-main\PaginaWebEcommerce-main\ProyectoTest\bin\Microsoft.Web.Infrastructure.dll
+D:\Downloads\PaginaWebEcommerce-main\PaginaWebEcommerce-main\ProyectoTest\bin\Newtonsoft.Json.dll
+D:\Downloads\PaginaWebEcommerce-main\PaginaWebEcommerce-main\ProyectoTest\bin\System.Web.Helpers.dll
+D:\Downloads\PaginaWebEcommerce-main\PaginaWebEcommerce-main\ProyectoTest\bin\System.Web.Mvc.dll
+D:\Downloads\PaginaWebEcommerce-main\PaginaWebEcommerce-main\ProyectoTest\bin\System.Web.Optimization.dll
+D:\Downloads\PaginaWebEcommerce-main\PaginaWebEcommerce-main\ProyectoTest\bin\System.Web.Razor.dll
+D:\Downloads\PaginaWebEcommerce-main\PaginaWebEcommerce-main\ProyectoTest\bin\System.Web.WebPages.Deployment.dll
+D:\Downloads\PaginaWebEcommerce-main\PaginaWebEcommerce-main\ProyectoTest\bin\System.Web.WebPages.dll
+D:\Downloads\PaginaWebEcommerce-main\PaginaWebEcommerce-main\ProyectoTest\bin\System.Web.WebPages.Razor.dll
+D:\Downloads\PaginaWebEcommerce-main\PaginaWebEcommerce-main\ProyectoTest\bin\WebGrease.dll
+D:\Downloads\PaginaWebEcommerce-main\PaginaWebEcommerce-main\ProyectoTest\bin\EntityFramework.xml
+D:\Downloads\PaginaWebEcommerce-main\PaginaWebEcommerce-main\ProyectoTest\bin\EntityFramework.SqlServer.xml
+D:\Downloads\PaginaWebEcommerce-main\PaginaWebEcommerce-main\ProyectoTest\bin\System.Web.Helpers.xml
+D:\Downloads\PaginaWebEcommerce-main\PaginaWebEcommerce-main\ProyectoTest\bin\System.Web.Mvc.xml
+D:\Downloads\PaginaWebEcommerce-main\PaginaWebEcommerce-main\ProyectoTest\bin\System.Web.Optimization.xml
+D:\Downloads\PaginaWebEcommerce-main\PaginaWebEcommerce-main\ProyectoTest\bin\System.Web.Razor.xml
+D:\Downloads\PaginaWebEcommerce-main\PaginaWebEcommerce-main\ProyectoTest\bin\System.Web.WebPages.xml
+D:\Downloads\PaginaWebEcommerce-main\PaginaWebEcommerce-main\ProyectoTest\bin\System.Web.WebPages.Deployment.xml
+D:\Downloads\PaginaWebEcommerce-main\PaginaWebEcommerce-main\ProyectoTest\bin\System.Web.WebPages.Razor.xml
+D:\Downloads\PaginaWebEcommerce-main\PaginaWebEcommerce-main\ProyectoTest\bin\Newtonsoft.Json.xml
+D:\Downloads\PaginaWebEcommerce-main\PaginaWebEcommerce-main\ProyectoTest\bin\Antlr3.Runtime.pdb
+D:\Downloads\PaginaWebEcommerce-main\PaginaWebEcommerce-main\ProyectoTest\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Downloads\PaginaWebEcommerce-main\PaginaWebEcommerce-main\ProyectoTest\bin\es\System.Web.Helpers.resources.dll
+D:\Downloads\PaginaWebEcommerce-main\PaginaWebEcommerce-main\ProyectoTest\bin\es\System.Web.Mvc.resources.dll
+D:\Downloads\PaginaWebEcommerce-main\PaginaWebEcommerce-main\ProyectoTest\bin\es\System.Web.Optimization.resources.dll
+D:\Downloads\PaginaWebEcommerce-main\PaginaWebEcommerce-main\ProyectoTest\bin\es\System.Web.Razor.resources.dll
+D:\Downloads\PaginaWebEcommerce-main\PaginaWebEcommerce-main\ProyectoTest\bin\es\System.Web.WebPages.resources.dll
+D:\Downloads\PaginaWebEcommerce-main\PaginaWebEcommerce-main\ProyectoTest\bin\es\System.Web.WebPages.Deployment.resources.dll
+D:\Downloads\PaginaWebEcommerce-main\PaginaWebEcommerce-main\ProyectoTest\bin\es\System.Web.WebPages.Razor.resources.dll
+D:\Downloads\PaginaWebEcommerce-main\PaginaWebEcommerce-main\ProyectoTest\obj\Debug\TrabajoConstruccion.csproj.AssemblyReference.cache
+D:\Downloads\PaginaWebEcommerce-main\PaginaWebEcommerce-main\ProyectoTest\obj\Debug\TrabajoConstruccion.csproj.CoreCompileInputs.cache
+D:\Downloads\PaginaWebEcommerce-main\PaginaWebEcommerce-main\ProyectoTest\obj\Debug\TrabajoC.AE72C247.Up2Date
+D:\Downloads\PaginaWebEcommerce-main\PaginaWebEcommerce-main\ProyectoTest\obj\Debug\ProyectoTest.dll
+D:\Downloads\PaginaWebEcommerce-main\PaginaWebEcommerce-main\ProyectoTest\obj\Debug\ProyectoTest.pdb
+C:\Users\NewFa\Music\PaginaWebEcommerce-main (2)\PaginaWebEcommerce-main\PaginaWebEcommerce-main\ProyectoTest\bin\ProyectoTest.dll.config
+C:\Users\NewFa\Music\PaginaWebEcommerce-main (2)\PaginaWebEcommerce-main\PaginaWebEcommerce-main\ProyectoTest\bin\ProyectoTest.dll
+C:\Users\NewFa\Music\PaginaWebEcommerce-main (2)\PaginaWebEcommerce-main\PaginaWebEcommerce-main\ProyectoTest\bin\ProyectoTest.pdb
+C:\Users\NewFa\Music\PaginaWebEcommerce-main (2)\PaginaWebEcommerce-main\PaginaWebEcommerce-main\ProyectoTest\bin\roslyn\csc.exe
+C:\Users\NewFa\Music\PaginaWebEcommerce-main (2)\PaginaWebEcommerce-main\PaginaWebEcommerce-main\ProyectoTest\bin\roslyn\csc.exe.config
+C:\Users\NewFa\Music\PaginaWebEcommerce-main (2)\PaginaWebEcommerce-main\PaginaWebEcommerce-main\ProyectoTest\bin\roslyn\csc.rsp
+C:\Users\NewFa\Music\PaginaWebEcommerce-main (2)\PaginaWebEcommerce-main\PaginaWebEcommerce-main\ProyectoTest\bin\roslyn\csi.exe
+C:\Users\NewFa\Music\PaginaWebEcommerce-main (2)\PaginaWebEcommerce-main\PaginaWebEcommerce-main\ProyectoTest\bin\roslyn\csi.exe.config
+C:\Users\NewFa\Music\PaginaWebEcommerce-main (2)\PaginaWebEcommerce-main\PaginaWebEcommerce-main\ProyectoTest\bin\roslyn\csi.rsp
+C:\Users\NewFa\Music\PaginaWebEcommerce-main (2)\PaginaWebEcommerce-main\PaginaWebEcommerce-main\ProyectoTest\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\NewFa\Music\PaginaWebEcommerce-main (2)\PaginaWebEcommerce-main\PaginaWebEcommerce-main\ProyectoTest\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\NewFa\Music\PaginaWebEcommerce-main (2)\PaginaWebEcommerce-main\PaginaWebEcommerce-main\ProyectoTest\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\NewFa\Music\PaginaWebEcommerce-main (2)\PaginaWebEcommerce-main\PaginaWebEcommerce-main\ProyectoTest\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\NewFa\Music\PaginaWebEcommerce-main (2)\PaginaWebEcommerce-main\PaginaWebEcommerce-main\ProyectoTest\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\NewFa\Music\PaginaWebEcommerce-main (2)\PaginaWebEcommerce-main\PaginaWebEcommerce-main\ProyectoTest\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\NewFa\Music\PaginaWebEcommerce-main (2)\PaginaWebEcommerce-main\PaginaWebEcommerce-main\ProyectoTest\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\NewFa\Music\PaginaWebEcommerce-main (2)\PaginaWebEcommerce-main\PaginaWebEcommerce-main\ProyectoTest\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\NewFa\Music\PaginaWebEcommerce-main (2)\PaginaWebEcommerce-main\PaginaWebEcommerce-main\ProyectoTest\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\NewFa\Music\PaginaWebEcommerce-main (2)\PaginaWebEcommerce-main\PaginaWebEcommerce-main\ProyectoTest\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\NewFa\Music\PaginaWebEcommerce-main (2)\PaginaWebEcommerce-main\PaginaWebEcommerce-main\ProyectoTest\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\NewFa\Music\PaginaWebEcommerce-main (2)\PaginaWebEcommerce-main\PaginaWebEcommerce-main\ProyectoTest\bin\roslyn\System.AppContext.dll
+C:\Users\NewFa\Music\PaginaWebEcommerce-main (2)\PaginaWebEcommerce-main\PaginaWebEcommerce-main\ProyectoTest\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\NewFa\Music\PaginaWebEcommerce-main (2)\PaginaWebEcommerce-main\PaginaWebEcommerce-main\ProyectoTest\bin\roslyn\System.Console.dll
+C:\Users\NewFa\Music\PaginaWebEcommerce-main (2)\PaginaWebEcommerce-main\PaginaWebEcommerce-main\ProyectoTest\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\NewFa\Music\PaginaWebEcommerce-main (2)\PaginaWebEcommerce-main\PaginaWebEcommerce-main\ProyectoTest\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\NewFa\Music\PaginaWebEcommerce-main (2)\PaginaWebEcommerce-main\PaginaWebEcommerce-main\ProyectoTest\bin\roslyn\System.IO.Compression.dll
+C:\Users\NewFa\Music\PaginaWebEcommerce-main (2)\PaginaWebEcommerce-main\PaginaWebEcommerce-main\ProyectoTest\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\NewFa\Music\PaginaWebEcommerce-main (2)\PaginaWebEcommerce-main\PaginaWebEcommerce-main\ProyectoTest\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\NewFa\Music\PaginaWebEcommerce-main (2)\PaginaWebEcommerce-main\PaginaWebEcommerce-main\ProyectoTest\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\NewFa\Music\PaginaWebEcommerce-main (2)\PaginaWebEcommerce-main\PaginaWebEcommerce-main\ProyectoTest\bin\roslyn\System.IO.Pipes.dll
+C:\Users\NewFa\Music\PaginaWebEcommerce-main (2)\PaginaWebEcommerce-main\PaginaWebEcommerce-main\ProyectoTest\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\NewFa\Music\PaginaWebEcommerce-main (2)\PaginaWebEcommerce-main\PaginaWebEcommerce-main\ProyectoTest\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\NewFa\Music\PaginaWebEcommerce-main (2)\PaginaWebEcommerce-main\PaginaWebEcommerce-main\ProyectoTest\bin\roslyn\System.Security.Claims.dll
+C:\Users\NewFa\Music\PaginaWebEcommerce-main (2)\PaginaWebEcommerce-main\PaginaWebEcommerce-main\ProyectoTest\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\NewFa\Music\PaginaWebEcommerce-main (2)\PaginaWebEcommerce-main\PaginaWebEcommerce-main\ProyectoTest\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\NewFa\Music\PaginaWebEcommerce-main (2)\PaginaWebEcommerce-main\PaginaWebEcommerce-main\ProyectoTest\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\NewFa\Music\PaginaWebEcommerce-main (2)\PaginaWebEcommerce-main\PaginaWebEcommerce-main\ProyectoTest\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\NewFa\Music\PaginaWebEcommerce-main (2)\PaginaWebEcommerce-main\PaginaWebEcommerce-main\ProyectoTest\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\NewFa\Music\PaginaWebEcommerce-main (2)\PaginaWebEcommerce-main\PaginaWebEcommerce-main\ProyectoTest\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\NewFa\Music\PaginaWebEcommerce-main (2)\PaginaWebEcommerce-main\PaginaWebEcommerce-main\ProyectoTest\bin\roslyn\System.ValueTuple.dll
+C:\Users\NewFa\Music\PaginaWebEcommerce-main (2)\PaginaWebEcommerce-main\PaginaWebEcommerce-main\ProyectoTest\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\NewFa\Music\PaginaWebEcommerce-main (2)\PaginaWebEcommerce-main\PaginaWebEcommerce-main\ProyectoTest\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\NewFa\Music\PaginaWebEcommerce-main (2)\PaginaWebEcommerce-main\PaginaWebEcommerce-main\ProyectoTest\bin\roslyn\System.Xml.XPath.dll
+C:\Users\NewFa\Music\PaginaWebEcommerce-main (2)\PaginaWebEcommerce-main\PaginaWebEcommerce-main\ProyectoTest\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\NewFa\Music\PaginaWebEcommerce-main (2)\PaginaWebEcommerce-main\PaginaWebEcommerce-main\ProyectoTest\bin\roslyn\vbc.exe
+C:\Users\NewFa\Music\PaginaWebEcommerce-main (2)\PaginaWebEcommerce-main\PaginaWebEcommerce-main\ProyectoTest\bin\roslyn\vbc.exe.config
+C:\Users\NewFa\Music\PaginaWebEcommerce-main (2)\PaginaWebEcommerce-main\PaginaWebEcommerce-main\ProyectoTest\bin\roslyn\vbc.rsp
+C:\Users\NewFa\Music\PaginaWebEcommerce-main (2)\PaginaWebEcommerce-main\PaginaWebEcommerce-main\ProyectoTest\bin\roslyn\VBCSCompiler.exe
+C:\Users\NewFa\Music\PaginaWebEcommerce-main (2)\PaginaWebEcommerce-main\PaginaWebEcommerce-main\ProyectoTest\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\NewFa\Music\PaginaWebEcommerce-main (2)\PaginaWebEcommerce-main\PaginaWebEcommerce-main\ProyectoTest\bin\Antlr3.Runtime.dll
+C:\Users\NewFa\Music\PaginaWebEcommerce-main (2)\PaginaWebEcommerce-main\PaginaWebEcommerce-main\ProyectoTest\bin\EntityFramework.dll
+C:\Users\NewFa\Music\PaginaWebEcommerce-main (2)\PaginaWebEcommerce-main\PaginaWebEcommerce-main\ProyectoTest\bin\EntityFramework.SqlServer.dll
+C:\Users\NewFa\Music\PaginaWebEcommerce-main (2)\PaginaWebEcommerce-main\PaginaWebEcommerce-main\ProyectoTest\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\NewFa\Music\PaginaWebEcommerce-main (2)\PaginaWebEcommerce-main\PaginaWebEcommerce-main\ProyectoTest\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\NewFa\Music\PaginaWebEcommerce-main (2)\PaginaWebEcommerce-main\PaginaWebEcommerce-main\ProyectoTest\bin\Newtonsoft.Json.dll
+C:\Users\NewFa\Music\PaginaWebEcommerce-main (2)\PaginaWebEcommerce-main\PaginaWebEcommerce-main\ProyectoTest\bin\System.Web.Helpers.dll
+C:\Users\NewFa\Music\PaginaWebEcommerce-main (2)\PaginaWebEcommerce-main\PaginaWebEcommerce-main\ProyectoTest\bin\System.Web.Mvc.dll
+C:\Users\NewFa\Music\PaginaWebEcommerce-main (2)\PaginaWebEcommerce-main\PaginaWebEcommerce-main\ProyectoTest\bin\System.Web.Optimization.dll
+C:\Users\NewFa\Music\PaginaWebEcommerce-main (2)\PaginaWebEcommerce-main\PaginaWebEcommerce-main\ProyectoTest\bin\System.Web.Razor.dll
+C:\Users\NewFa\Music\PaginaWebEcommerce-main (2)\PaginaWebEcommerce-main\PaginaWebEcommerce-main\ProyectoTest\bin\System.Web.WebPages.Deployment.dll
+C:\Users\NewFa\Music\PaginaWebEcommerce-main (2)\PaginaWebEcommerce-main\PaginaWebEcommerce-main\ProyectoTest\bin\System.Web.WebPages.dll
+C:\Users\NewFa\Music\PaginaWebEcommerce-main (2)\PaginaWebEcommerce-main\PaginaWebEcommerce-main\ProyectoTest\bin\System.Web.WebPages.Razor.dll
+C:\Users\NewFa\Music\PaginaWebEcommerce-main (2)\PaginaWebEcommerce-main\PaginaWebEcommerce-main\ProyectoTest\bin\WebGrease.dll
+C:\Users\NewFa\Music\PaginaWebEcommerce-main (2)\PaginaWebEcommerce-main\PaginaWebEcommerce-main\ProyectoTest\bin\EntityFramework.xml
+C:\Users\NewFa\Music\PaginaWebEcommerce-main (2)\PaginaWebEcommerce-main\PaginaWebEcommerce-main\ProyectoTest\bin\EntityFramework.SqlServer.xml
+C:\Users\NewFa\Music\PaginaWebEcommerce-main (2)\PaginaWebEcommerce-main\PaginaWebEcommerce-main\ProyectoTest\bin\System.Web.Helpers.xml
+C:\Users\NewFa\Music\PaginaWebEcommerce-main (2)\PaginaWebEcommerce-main\PaginaWebEcommerce-main\ProyectoTest\bin\System.Web.Mvc.xml
+C:\Users\NewFa\Music\PaginaWebEcommerce-main (2)\PaginaWebEcommerce-main\PaginaWebEcommerce-main\ProyectoTest\bin\System.Web.Optimization.xml
+C:\Users\NewFa\Music\PaginaWebEcommerce-main (2)\PaginaWebEcommerce-main\PaginaWebEcommerce-main\ProyectoTest\bin\System.Web.Razor.xml
+C:\Users\NewFa\Music\PaginaWebEcommerce-main (2)\PaginaWebEcommerce-main\PaginaWebEcommerce-main\ProyectoTest\bin\System.Web.WebPages.xml
+C:\Users\NewFa\Music\PaginaWebEcommerce-main (2)\PaginaWebEcommerce-main\PaginaWebEcommerce-main\ProyectoTest\bin\System.Web.WebPages.Deployment.xml
+C:\Users\NewFa\Music\PaginaWebEcommerce-main (2)\PaginaWebEcommerce-main\PaginaWebEcommerce-main\ProyectoTest\bin\System.Web.WebPages.Razor.xml
+C:\Users\NewFa\Music\PaginaWebEcommerce-main (2)\PaginaWebEcommerce-main\PaginaWebEcommerce-main\ProyectoTest\bin\Newtonsoft.Json.xml
+C:\Users\NewFa\Music\PaginaWebEcommerce-main (2)\PaginaWebEcommerce-main\PaginaWebEcommerce-main\ProyectoTest\bin\Antlr3.Runtime.pdb
+C:\Users\NewFa\Music\PaginaWebEcommerce-main (2)\PaginaWebEcommerce-main\PaginaWebEcommerce-main\ProyectoTest\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\NewFa\Music\PaginaWebEcommerce-main (2)\PaginaWebEcommerce-main\PaginaWebEcommerce-main\ProyectoTest\bin\es\System.Web.Helpers.resources.dll
+C:\Users\NewFa\Music\PaginaWebEcommerce-main (2)\PaginaWebEcommerce-main\PaginaWebEcommerce-main\ProyectoTest\bin\es\System.Web.Mvc.resources.dll
+C:\Users\NewFa\Music\PaginaWebEcommerce-main (2)\PaginaWebEcommerce-main\PaginaWebEcommerce-main\ProyectoTest\bin\es\System.Web.Optimization.resources.dll
+C:\Users\NewFa\Music\PaginaWebEcommerce-main (2)\PaginaWebEcommerce-main\PaginaWebEcommerce-main\ProyectoTest\bin\es\System.Web.Razor.resources.dll
+C:\Users\NewFa\Music\PaginaWebEcommerce-main (2)\PaginaWebEcommerce-main\PaginaWebEcommerce-main\ProyectoTest\bin\es\System.Web.WebPages.resources.dll
+C:\Users\NewFa\Music\PaginaWebEcommerce-main (2)\PaginaWebEcommerce-main\PaginaWebEcommerce-main\ProyectoTest\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\NewFa\Music\PaginaWebEcommerce-main (2)\PaginaWebEcommerce-main\PaginaWebEcommerce-main\ProyectoTest\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\NewFa\Music\PaginaWebEcommerce-main (2)\PaginaWebEcommerce-main\PaginaWebEcommerce-main\ProyectoTest\obj\Debug\TrabajoConstruccion.csproj.AssemblyReference.cache
+C:\Users\NewFa\Music\PaginaWebEcommerce-main (2)\PaginaWebEcommerce-main\PaginaWebEcommerce-main\ProyectoTest\obj\Debug\TrabajoConstruccion.csproj.CoreCompileInputs.cache
+C:\Users\NewFa\Music\PaginaWebEcommerce-main (2)\PaginaWebEcommerce-main\PaginaWebEcommerce-main\ProyectoTest\obj\Debug\TrabajoC.AE72C247.Up2Date
+C:\Users\NewFa\Music\PaginaWebEcommerce-main (2)\PaginaWebEcommerce-main\PaginaWebEcommerce-main\ProyectoTest\obj\Debug\ProyectoTest.dll
+C:\Users\NewFa\Music\PaginaWebEcommerce-main (2)\PaginaWebEcommerce-main\PaginaWebEcommerce-main\ProyectoTest\obj\Debug\ProyectoTest.pdb

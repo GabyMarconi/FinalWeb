@@ -1,0 +1,289 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="DB_CARRITOModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="CARRITO">
+    <Key>
+      <PropertyRef Name="IdCarrito" />
+    </Key>
+    <Property Name="IdCarrito" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="IdUsuario" Type="int" />
+    <Property Name="IdProducto" Type="int" />
+  </EntityType>
+  <EntityType Name="CATEGORIA">
+    <Key>
+      <PropertyRef Name="IdCategoria" />
+    </Key>
+    <Property Name="IdCategoria" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Descripcion" Type="varchar" MaxLength="100" />
+    <Property Name="Activo" Type="bit" />
+    <Property Name="FechaRegistro" Type="datetime" />
+  </EntityType>
+  <EntityType Name="COMPRA">
+    <Key>
+      <PropertyRef Name="IdCompra" />
+    </Key>
+    <Property Name="IdCompra" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="IdUsuario" Type="int" />
+    <Property Name="TotalProducto" Type="int" />
+    <Property Name="Total" Type="decimal" Precision="10" Scale="2" />
+    <Property Name="Contacto" Type="varchar" MaxLength="50" />
+    <Property Name="Telefono" Type="varchar" MaxLength="50" />
+    <Property Name="Direccion" Type="varchar" MaxLength="500" />
+    <Property Name="IdDistrito" Type="varchar" MaxLength="10" />
+    <Property Name="FechaCompra" Type="datetime" />
+  </EntityType>
+  <!--Errores durante la generación:
+advertencia 6002: La tabla o vista 'DB_CARRITO.dbo.DEPARTAMENTO' no tiene definida ninguna clave principal. Se ha inferido la clave y la definición se creado como una vista o tabla de solo lectura.-->
+  <EntityType Name="DEPARTAMENTO">
+    <Key>
+      <PropertyRef Name="IdDepartamento" />
+      <PropertyRef Name="Descripcion" />
+    </Key>
+    <Property Name="IdDepartamento" Type="varchar" MaxLength="2" Nullable="false" />
+    <Property Name="Descripcion" Type="varchar" MaxLength="45" Nullable="false" />
+  </EntityType>
+  <EntityType Name="DETALLE_COMPRA">
+    <Key>
+      <PropertyRef Name="IdDetalleCompra" />
+    </Key>
+    <Property Name="IdDetalleCompra" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="IdCompra" Type="int" />
+    <Property Name="IdProducto" Type="int" />
+    <Property Name="Cantidad" Type="int" />
+    <Property Name="Total" Type="decimal" Precision="10" Scale="2" />
+  </EntityType>
+  <EntityType Name="DETALLE_TARJETA">
+    <Key>
+      <PropertyRef Name="IdDetalleTarjeta" />
+    </Key>
+    <Property Name="IdDetalleTarjeta" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="IdCompra" Type="int" />
+    <Property Name="TipoTarjeta" Type="varchar" MaxLength="50" />
+    <Property Name="NombreTitular" Type="varchar" MaxLength="100" />
+    <Property Name="NumeroTarjeta" Type="varchar" MaxLength="20" />
+    <Property Name="Vigencia" Type="varchar" MaxLength="7" />
+    <Property Name="CVV" Type="varchar" MaxLength="4" />
+    <Property Name="FechaRegistro" Type="datetime" />
+  </EntityType>
+  <!--Errores durante la generación:
+advertencia 6002: La tabla o vista 'DB_CARRITO.dbo.DISTRITO' no tiene definida ninguna clave principal. Se ha inferido la clave y la definición se creado como una vista o tabla de solo lectura.-->
+  <EntityType Name="DISTRITO">
+    <Key>
+      <PropertyRef Name="IdDistrito" />
+      <PropertyRef Name="Descripcion" />
+      <PropertyRef Name="IdProvincia" />
+      <PropertyRef Name="IdDepartamento" />
+    </Key>
+    <Property Name="IdDistrito" Type="varchar" MaxLength="6" Nullable="false" />
+    <Property Name="Descripcion" Type="varchar" MaxLength="45" Nullable="false" />
+    <Property Name="IdProvincia" Type="varchar" MaxLength="4" Nullable="false" />
+    <Property Name="IdDepartamento" Type="varchar" MaxLength="2" Nullable="false" />
+  </EntityType>
+  <EntityType Name="MARCA">
+    <Key>
+      <PropertyRef Name="IdMarca" />
+    </Key>
+    <Property Name="IdMarca" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Descripcion" Type="varchar" MaxLength="100" />
+    <Property Name="Activo" Type="bit" />
+    <Property Name="FechaRegistro" Type="datetime" />
+  </EntityType>
+  <EntityType Name="PRODUCTO">
+    <Key>
+      <PropertyRef Name="IdProducto" />
+    </Key>
+    <Property Name="IdProducto" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Nombre" Type="varchar" MaxLength="500" />
+    <Property Name="Descripcion" Type="varchar" MaxLength="500" />
+    <Property Name="IdMarca" Type="int" />
+    <Property Name="IdCategoria" Type="int" />
+    <Property Name="Precio" Type="decimal" Precision="10" Scale="2" />
+    <Property Name="Stock" Type="int" />
+    <Property Name="RutaImagen" Type="varchar" MaxLength="100" />
+    <Property Name="Activo" Type="bit" />
+    <Property Name="FechaRegistro" Type="datetime" />
+  </EntityType>
+  <!--Errores durante la generación:
+advertencia 6002: La tabla o vista 'DB_CARRITO.dbo.PROVINCIA' no tiene definida ninguna clave principal. Se ha inferido la clave y la definición se creado como una vista o tabla de solo lectura.-->
+  <EntityType Name="PROVINCIA">
+    <Key>
+      <PropertyRef Name="IdProvincia" />
+      <PropertyRef Name="Descripcion" />
+      <PropertyRef Name="IdDepartamento" />
+    </Key>
+    <Property Name="IdProvincia" Type="varchar" MaxLength="4" Nullable="false" />
+    <Property Name="Descripcion" Type="varchar" MaxLength="45" Nullable="false" />
+    <Property Name="IdDepartamento" Type="varchar" MaxLength="2" Nullable="false" />
+  </EntityType>
+  <EntityType Name="USUARIO">
+    <Key>
+      <PropertyRef Name="IdUsuario" />
+    </Key>
+    <Property Name="IdUsuario" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Nombres" Type="varchar" MaxLength="100" />
+    <Property Name="Apellidos" Type="varchar" MaxLength="100" />
+    <Property Name="Correo" Type="varchar" MaxLength="100" />
+    <Property Name="Contrasena" Type="varchar" MaxLength="100" />
+    <Property Name="EsAdministrador" Type="bit" />
+    <Property Name="Activo" Type="bit" />
+    <Property Name="FechaRegistro" Type="datetime" />
+  </EntityType>
+  <Association Name="FK__CARRITO__IdProdu__4AB81AF0">
+    <End Role="PRODUCTO" Type="Self.PRODUCTO" Multiplicity="0..1" />
+    <End Role="CARRITO" Type="Self.CARRITO" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="PRODUCTO">
+        <PropertyRef Name="IdProducto" />
+      </Principal>
+      <Dependent Role="CARRITO">
+        <PropertyRef Name="IdProducto" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__CARRITO__IdUsuar__49C3F6B7">
+    <End Role="USUARIO" Type="Self.USUARIO" Multiplicity="0..1" />
+    <End Role="CARRITO" Type="Self.CARRITO" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="USUARIO">
+        <PropertyRef Name="IdUsuario" />
+      </Principal>
+      <Dependent Role="CARRITO">
+        <PropertyRef Name="IdUsuario" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__COMPRA__IdUsuari__4D94879B">
+    <End Role="USUARIO" Type="Self.USUARIO" Multiplicity="0..1" />
+    <End Role="COMPRA" Type="Self.COMPRA" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="USUARIO">
+        <PropertyRef Name="IdUsuario" />
+      </Principal>
+      <Dependent Role="COMPRA">
+        <PropertyRef Name="IdUsuario" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__DETALLE_C__IdCom__5535A963">
+    <End Role="COMPRA" Type="Self.COMPRA" Multiplicity="0..1" />
+    <End Role="DETALLE_COMPRA" Type="Self.DETALLE_COMPRA" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="COMPRA">
+        <PropertyRef Name="IdCompra" />
+      </Principal>
+      <Dependent Role="DETALLE_COMPRA">
+        <PropertyRef Name="IdCompra" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__DETALLE_C__IdPro__5629CD9C">
+    <End Role="PRODUCTO" Type="Self.PRODUCTO" Multiplicity="0..1" />
+    <End Role="DETALLE_COMPRA" Type="Self.DETALLE_COMPRA" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="PRODUCTO">
+        <PropertyRef Name="IdProducto" />
+      </Principal>
+      <Dependent Role="DETALLE_COMPRA">
+        <PropertyRef Name="IdProducto" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__DETALLE_T__IdCom__5165187F">
+    <End Role="COMPRA" Type="Self.COMPRA" Multiplicity="0..1" />
+    <End Role="DETALLE_TARJETA" Type="Self.DETALLE_TARJETA" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="COMPRA">
+        <PropertyRef Name="IdCompra" />
+      </Principal>
+      <Dependent Role="DETALLE_TARJETA">
+        <PropertyRef Name="IdCompra" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__PRODUCTO__IdCate__403A8C7D">
+    <End Role="CATEGORIA" Type="Self.CATEGORIA" Multiplicity="0..1" />
+    <End Role="PRODUCTO" Type="Self.PRODUCTO" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="CATEGORIA">
+        <PropertyRef Name="IdCategoria" />
+      </Principal>
+      <Dependent Role="PRODUCTO">
+        <PropertyRef Name="IdCategoria" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__PRODUCTO__IdMarc__3F466844">
+    <End Role="MARCA" Type="Self.MARCA" Multiplicity="0..1" />
+    <End Role="PRODUCTO" Type="Self.PRODUCTO" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="MARCA">
+        <PropertyRef Name="IdMarca" />
+      </Principal>
+      <Dependent Role="PRODUCTO">
+        <PropertyRef Name="IdMarca" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="DB_CARRITOModelStoreContainer">
+    <EntitySet Name="CARRITO" EntityType="Self.CARRITO" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="CATEGORIA" EntityType="Self.CATEGORIA" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="COMPRA" EntityType="Self.COMPRA" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="DETALLE_COMPRA" EntityType="Self.DETALLE_COMPRA" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="DETALLE_TARJETA" EntityType="Self.DETALLE_TARJETA" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="MARCA" EntityType="Self.MARCA" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="PRODUCTO" EntityType="Self.PRODUCTO" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="USUARIO" EntityType="Self.USUARIO" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="DEPARTAMENTO" EntityType="Self.DEPARTAMENTO" store:Type="Tables" store:Schema="dbo">
+      <DefiningQuery>SELECT 
+    [DEPARTAMENTO].[IdDepartamento] AS [IdDepartamento], 
+    [DEPARTAMENTO].[Descripcion] AS [Descripcion]
+    FROM [dbo].[DEPARTAMENTO] AS [DEPARTAMENTO]</DefiningQuery>
+    </EntitySet>
+    <EntitySet Name="DISTRITO" EntityType="Self.DISTRITO" store:Type="Tables" store:Schema="dbo">
+      <DefiningQuery>SELECT 
+    [DISTRITO].[IdDistrito] AS [IdDistrito], 
+    [DISTRITO].[Descripcion] AS [Descripcion], 
+    [DISTRITO].[IdProvincia] AS [IdProvincia], 
+    [DISTRITO].[IdDepartamento] AS [IdDepartamento]
+    FROM [dbo].[DISTRITO] AS [DISTRITO]</DefiningQuery>
+    </EntitySet>
+    <EntitySet Name="PROVINCIA" EntityType="Self.PROVINCIA" store:Type="Tables" store:Schema="dbo">
+      <DefiningQuery>SELECT 
+    [PROVINCIA].[IdProvincia] AS [IdProvincia], 
+    [PROVINCIA].[Descripcion] AS [Descripcion], 
+    [PROVINCIA].[IdDepartamento] AS [IdDepartamento]
+    FROM [dbo].[PROVINCIA] AS [PROVINCIA]</DefiningQuery>
+    </EntitySet>
+    <AssociationSet Name="FK__CARRITO__IdProdu__4AB81AF0" Association="Self.FK__CARRITO__IdProdu__4AB81AF0">
+      <End Role="PRODUCTO" EntitySet="PRODUCTO" />
+      <End Role="CARRITO" EntitySet="CARRITO" />
+    </AssociationSet>
+    <AssociationSet Name="FK__CARRITO__IdUsuar__49C3F6B7" Association="Self.FK__CARRITO__IdUsuar__49C3F6B7">
+      <End Role="USUARIO" EntitySet="USUARIO" />
+      <End Role="CARRITO" EntitySet="CARRITO" />
+    </AssociationSet>
+    <AssociationSet Name="FK__COMPRA__IdUsuari__4D94879B" Association="Self.FK__COMPRA__IdUsuari__4D94879B">
+      <End Role="USUARIO" EntitySet="USUARIO" />
+      <End Role="COMPRA" EntitySet="COMPRA" />
+    </AssociationSet>
+    <AssociationSet Name="FK__DETALLE_C__IdCom__5535A963" Association="Self.FK__DETALLE_C__IdCom__5535A963">
+      <End Role="COMPRA" EntitySet="COMPRA" />
+      <End Role="DETALLE_COMPRA" EntitySet="DETALLE_COMPRA" />
+    </AssociationSet>
+    <AssociationSet Name="FK__DETALLE_C__IdPro__5629CD9C" Association="Self.FK__DETALLE_C__IdPro__5629CD9C">
+      <End Role="PRODUCTO" EntitySet="PRODUCTO" />
+      <End Role="DETALLE_COMPRA" EntitySet="DETALLE_COMPRA" />
+    </AssociationSet>
+    <AssociationSet Name="FK__DETALLE_T__IdCom__5165187F" Association="Self.FK__DETALLE_T__IdCom__5165187F">
+      <End Role="COMPRA" EntitySet="COMPRA" />
+      <End Role="DETALLE_TARJETA" EntitySet="DETALLE_TARJETA" />
+    </AssociationSet>
+    <AssociationSet Name="FK__PRODUCTO__IdCate__403A8C7D" Association="Self.FK__PRODUCTO__IdCate__403A8C7D">
+      <End Role="CATEGORIA" EntitySet="CATEGORIA" />
+      <End Role="PRODUCTO" EntitySet="PRODUCTO" />
+    </AssociationSet>
+    <AssociationSet Name="FK__PRODUCTO__IdMarc__3F466844" Association="Self.FK__PRODUCTO__IdMarc__3F466844">
+      <End Role="MARCA" EntitySet="MARCA" />
+      <End Role="PRODUCTO" EntitySet="PRODUCTO" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>
