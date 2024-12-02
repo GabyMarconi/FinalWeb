@@ -24,7 +24,7 @@ Desarrollar una plataforma de comercio electrónico que brinde una experiencia c
 
 ## Estructura de la Base de Datos
 La base de datos relacional incluye tablas como `Producto`, `Usuario`, `Carrito`, `Compra`, entre otras, con relaciones optimizadas para manejo eficiente de información.
-![Diagrama de la base de datos](https://example.com/database-diagram.png)
+![Diagrama de la base de datos](db.jpg)
 
 
 ## Instalación y Ejecución
